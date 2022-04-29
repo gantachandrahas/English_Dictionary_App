@@ -1,1 +1,1 @@
-# English_Dictionary_App
+# English_Dictionary_App (Mandatory Projet)
